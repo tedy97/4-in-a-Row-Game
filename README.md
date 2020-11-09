@@ -1,2 +1,2 @@
 # 4-in-a-Row-Game
-4 in a Row Game in C :
+All instructions are writen inside the code
